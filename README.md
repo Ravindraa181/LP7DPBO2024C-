@@ -4,14 +4,15 @@
 Saya Ravindra Maulana Sahman NIM 2108724 mengerjakan Latihan 7 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
-Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai berikut:
-Tema program bebas, Namun tidak boleh mengadaptasi tema program ormawa seperti pada modul ini
-Menggunakan minimal 3 buah tabel (kelas)
-Terdapat proses Create, Read, Update, dan Delete data pada setiap tabel
-Minimal Memiliki fungsi pencarian dan pengurutan data (kata kunci bebas) pada salah satu tabel
-Menggunakan template/skin form tambah data dan ubah data yang sama
-1 tabel pada database ditampilkan dalam bentuk bukan tabel, 2 tabel atau lebih sisanya ditampilkan dalam bentuk tabel (seperti contoh saat praktikum)
-Menggunakan template/skin tabel yang sama untuk menampilkan tabel
+Lanjutkan program Flappy Bird di atas dan tambahkan fitur-fitur berikut:
+Hentikan permainan saat player menabrak/menyentuh pipa atau terjatuh ke batas bawah JFrame (Game Over);
+Setelah Game Over, tambahkan fungsionalitas untuk restart permainan dengan menekan tombol “R” pada keyboard.
+Buat sebuah JLabel untuk menampilkan skor;
+Tambah skor (+1) setiap kali player melewati pipa;
+
+BONUS MAIN MENU (+20)
+Tambahkan sebuah GUI Form baru yang ditampilkan di awal program (sebelum JFrame game FlappyBird). GUI Form berisi sebuah tombol yang saat ditekan akan menutup dirinya sendiri dan membuka JFrame game.
+
 
 #Dokumentasi Video
 
